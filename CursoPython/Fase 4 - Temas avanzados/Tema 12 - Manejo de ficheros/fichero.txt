@@ -1,0 +1,4 @@
+LA PINCHE NUEVA LINEA
+Otra linea con texto
+Esta linea la he modificado en memoria
+Cuarta linea del fichero
